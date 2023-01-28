@@ -1,6 +1,7 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
 AUTORES:
+Alejandro
 
 CAPITULO UNO
 
